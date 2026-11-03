@@ -1,0 +1,5 @@
+DIMORA OCEANO — ANTEPRIMA SITO
+Aprire index.html con Chrome o Safari. Per pubblicare, caricare index.html e la cartella foto nella stessa directory sul proprio hosting.
+La cartella contiene foto ottimizzate, nessun collegamento immagine esterno.
+Il sito è una vetrina informativa: non sono presenti prenotazioni.
+Prima della pubblicazione verificare fedeltà delle foto rielaborate, distanze, contenuti e adempimenti.
